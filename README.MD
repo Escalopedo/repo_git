@@ -2,7 +2,7 @@
 
 ## Proyecto PJ 01: TRANSVERSAL
 
-### Objetivo
+### 🎯 Objetivo
 Este proyecto tiene como objetivo la creación desde cero de un sitio web integrado en la intranet de un restaurante para la gestión de reservas de mesas. Este sistema permitirá a los camareros gestionar y visualizar en tiempo real la disponibilidad de mesas y sillas en el restaurante.
 
 ### Duración
